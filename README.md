@@ -4,4 +4,6 @@ Give yourself some space and always start from a blank new tab.
 
 ## Usage
 
-You can install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/blank-new-tab/omnfnfbhiifgbconimenllmjfnhdbdlj).
+* Go to chrome://extensions
+* Enable Developer Mode.
+* Click Load Unpacked or drag the blank-new-tab folder anywhere on the page
